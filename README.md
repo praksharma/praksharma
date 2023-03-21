@@ -1,5 +1,6 @@
+<h1 align="center">Prakhar Sharma</h1>
+
 <p align="center">
-<h1> Prakhar Sharma </h1>
 <img src="Asset/giphy.gif" width="328"/>
 </p>
 
