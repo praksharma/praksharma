@@ -1,16 +1,53 @@
+<center>
+<h1> Prakhar Sharma </h1>
+<img src="Asset/giphy.gif" width="328"/>
+</center>
+
 ### Hi there 👋
+I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My interest lies in solving forward and inverse problem involving partial differential equations (PDEs) using [Physics-informed meachine learning (PIML)](https://medium.com/@zhaoshuai1989/why-do-we-need-physics-informed-machine-learning-piml-d11fe0c4436c). In my free time, I like to play first person shooting games and create graphical user interface (GUIs).
 
-<!--
-**praksharma/praksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on reconstruction of full solution of physical systems from sparse data with [Physics-informed Neural networks (PINNs)](https://link.springer.com/article/10.1007/s11831-023-09890-4)
+- 🌱 I’m currently learning [Physics-informed meachine learning (PIML)](https://medium.com/@zhaoshuai1989/why-do-we-need-physics-informed-machine-learning-piml-d11fe0c4436c) and [PyQT5](https://riverbankcomputing.com/software/pyqt/intro).
+- 👯 I’m looking to collaborate with people working in PIML.
+- 🤔 I’m looking for help with accelerating ML workflows by running multiple-instance training on single GPU.
+- 💬 About me : [LinkedIn](https://www.linkedin.com/in/prak-sharma/)
+- 📫 How to reach me: prakhars962@gmail.com
+- ⚡ Fun fact: I use [Arch](https://archlinux.org/) btw
+
+<center>
+<img src="Asset/arch.gif" width="328">
+<img src="Asset/arch_2.gif" width="328">
+<img src="Asset/arch_3.gif" width="328">
+</center>
+<br>
+
+<a href="https://github.com/praksharma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praksharma&theme=radical" />
+</a>
+
+<a href="https://github.com/praksharma">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=praksharma&show_icons=true&include_all_commits=true&hide=stars&theme=radical" alt="github stats"/>
+</a>
+
+<br>
+<br>
+
+| [<img src="Asset/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/prak-sharma/) | [<img src="Asset/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/prakhar962) | [<img src="Asset/quora.png" alt="quora logo" width="32">](https://www.quora.com/profile/Prakhar-Sharma-290)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/praksharma) | [<img src="Asset/wordpress.svg" alt="wordpress Logo" width="30">](https://prakhar962.wordpress.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/14598633/prakhar-sharma) | [<img src="Asset/youtube.svg" alt="youtube Logo" width="30">](https://www.youtube.com/@wonderhd6844) | [<img src="Asset/gmail.svg" alt="Gmail logo" height="32">](mailto:prakhars962@gmail.com)| [<img src="Asset/reddit.svg" alt="reddit logo" height="36">](https://www.reddit.com/user/Captain-Thor)| [<img src="Asset/ORCID.svg.png" alt="orcid logo" height="36">](https://orcid.org/my-orcid?orcid=0000-0002-7635-1857) | [<img src="Asset/Scopus.png" alt="scopus logo" height="36">](https://www.scopus.com/authid/detail.uri?authorId=57693143700)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+<br>
+<h5>My guides for HPC and machine learning : <h5>
+
+<a href="https://github.com/praksharma/Sunbird">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=praksharma&repo=Sunbird&theme=dark" />
+</a>
+
+
+<h6>Profile hit counts<h6>
+
+![Custom badge](https://img.shields.io/endpoint?color=Green&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2Fpraksharma%2Fpraksharma.json) 
+
+ <h6>Number of visitors<h6>
+ 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=praksharma)
