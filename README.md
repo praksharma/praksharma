@@ -1,7 +1,7 @@
-<center>
+<p align="center">
 <h1> Prakhar Sharma </h1>
 <img src="Asset/giphy.gif" width="328"/>
-</center>
+</p>
 
 ### Hi there 👋
 I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My interest lies in solving forward and inverse problem involving partial differential equations (PDEs) using [Physics-informed meachine learning (PIML)](https://medium.com/@zhaoshuai1989/why-do-we-need-physics-informed-machine-learning-piml-d11fe0c4436c). In my free time, I like to play first person shooting games and create graphical user interface (GUIs).
