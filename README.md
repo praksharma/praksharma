@@ -16,11 +16,11 @@ I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My inter
 - 📫 How to reach me: prakhars962@gmail.com
 - ⚡ Fun fact: I use [Arch](https://archlinux.org/) btw
 
-<center>
+<p align="center">
 <img src="Asset/arch.gif" width="328">
 <img src="Asset/arch_2.gif" width="328">
 <img src="Asset/arch_3.gif" width="328">
-</center>
+</p>
 <br>
 
 <a href="https://github.com/praksharma">
