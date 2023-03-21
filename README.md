@@ -28,7 +28,7 @@ I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My inter
 </a>
 
 <a href="https://github.com/praksharma">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=praksharma&show_icons=true&include_all_commits=true&hide=stars&theme=radical" alt="github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=praksharma&show_icons=true&theme=radical" alt="github stats"/>
 </a>
 
 <br>
