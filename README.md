@@ -1,4 +1,4 @@
-<h1 align="center">Prakhar Sharma</h1>
+<h1 align="center">Prakhar Sharma प्रखर शर्मा</h1>
 
 <p align="center">
 <img src="Asset/giphy.gif" width="328"/>
