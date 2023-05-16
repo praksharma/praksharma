@@ -24,6 +24,8 @@ I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My area 
 </p>
 <br>
 
+If you see "something went wrong" here, then just ignore it. I am too lazy to deploy my own vercel instance.
+
 <a href="https://github.com/praksharma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praksharma&theme=radical" />
 </a>
