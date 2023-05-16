@@ -24,13 +24,13 @@ I am a PhD student at [Swansea University](https://www.swansea.ac.uk/). My area 
 </p>
 <br>
 
-If you see "something went wrong" here, then just ignore it. I am too lazy to deploy my own vercel instance.
+If you see "something went wrong" here, then just ignore it. I am too lazy to deploy my own vercel instance. You can still click them to see the stats in a new tab.
 
-<a href="https://github.com/praksharma">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praksharma&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praksharma&theme=radical" />
 </a>
 
-<a href="https://github.com/praksharma">
+<a href="https://github-readme-stats.vercel.app/api?username=praksharma&show_icons=true&theme=radical">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praksharma&show_icons=true&theme=radical" alt="github stats"/>
 </a>
 
