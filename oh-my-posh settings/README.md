@@ -28,3 +28,7 @@ Reload the shell:
 exec zsh
 ```
 ![Alt text](image-1.png)
+
+# My custom theme
+So, I created a custom oh-my-posh theme. Here is how it looks like.
+![Alt text](image-2.png)

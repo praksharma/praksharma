@@ -1,6 +1,6 @@
 # oh-my-posh
 export PATH="$PATH:/home/hell/.oh-my-posh"
-eval "$(oh-my-posh init zsh --config ~/.oh-my-posh/themes/clean-detailed.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.oh-my-posh/themes/custom_theme.omp.json)"
 
 # Case-insensitive (non-sensitive) completion
 autoload -Uz compinit && compinit
