@@ -1,0 +1,14 @@
+Host	sunbird
+	User	s.1915438
+	HostName	sunbird.swansea.ac.uk
+Host	cardiff
+	User	s.1915438
+	HostName	hawklogin.cf.ac.uk
+Host	sunbirdvnc
+    User	s.1915438
+    HostName	vnc.sunbird.swansea.ac.uk
+    LocalForward	5901 localhost:5905
+Host	proxy_pc
+    User	hell
+    Hostname	134.137.3.13
+    ProxyJump	sunbird
