@@ -2,7 +2,9 @@
 You could never convince a monkey to give you a banana by promising him limitless bananas in heaven. - Yuval Noah Harari.
 </blockquote>
 
+<center><h1>धर्म ही अधर्म है।</h1></center>
 
+Academic website: https://praksharma.github.io/
 
 If you see "something went wrong" here, then just ignore it. I am too lazy to deploy my own vercel instance. You can still click them to see the stats in a new tab.
 
