@@ -3,5 +3,11 @@
 2. Download MS office 32 bit using this [link](https://aka.ms/office-install). You might need to change the user agent to Windows OS. 
 	* Right click the click Inspect. Click network conditions and then choose any Windows based web browser.
 3. Now use my secret recipe before starting the Office 365 setup.
+4. Once Office 365 is installed. Export the path
+
+export WINEPREFIX=~/.cxoffice/Microsoft_Office_365/
+ 
+5. Now run the executables in ~/.cxoffice/Microsoft_Office_365/drive_c/Program Files/Microsoft Office/root/Office16/ 
+ or /home/hell/.cxoffice/Microsoft_Office_365/drive_c/Program Files/Microsoft Office/root/Office16/
 
 Here is a [proof of concept](https://www.youtube.com/watch?v=T8Rx4TOpvHQ). 
