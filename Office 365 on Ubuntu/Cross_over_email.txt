@@ -1,0 +1,24 @@
+
+
+
+Hello,
+
+You may be missing libraries that Crossover needs to run some applications. You can try using the cxfix utility to help install them by running the command
+
+/opt/cxoffice/bin/cxfix --auto
+or
+~/cxoffice/bin/cxfix --auto
+
+This will report any libraries that are missing, or other issues that Crossover finds and will attempt to install them for you. If it is failing you can then find out how to fix any issues reported here https://support.codeweavers.com/en_US/missing-libraries
+
+You can also try running cxfix --suggested but pay close attention to what that would install or uninstall. Not all of these libraries can be installed on all distros and it may try and remove important libraries in some cases.
+
+If you are still having issues, please let us know and be sure to include your Crossover System Info. You can access it in Crossover from Help and click System Information and send that over in your response as well.
+
+Thanks,
+CodeWeavers Tech Support
+
+--
+Ticket #1437532
+
+
