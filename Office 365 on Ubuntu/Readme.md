@@ -46,3 +46,10 @@ In system monitor kill any wine server daemon.
 
 * Activation error
 Who cares.
+
+## Automating Office 365 with environment variables
+In the `wine_start.sh` I have put the alias to word, excel and powerpoint. Just load the script and type WORD, EXCEL, POWERPNT and boom.
+
+```sh
+source wine_start.sh
+```
