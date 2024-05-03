@@ -1,7 +1,8 @@
 # Running Office 365 ProPlus on Ubuntu 22.04
 1. Download Wine from the [winehq server](https://wiki.winehq.org/Ubuntu) not from the Ubuntu repo.
 2. Download MS office 32 bit using this [link](https://aka.ms/office-install). You might need to change the user agent to Windows OS. 
-	* Right click the click Inspect. Click network conditions and then choose any Windows based web browser.
+	* Right click the click Inspect. Click network conditions in the "console drawer".and then choose any Windows based web browser.
+	* If "console drawer" is not visible, press `Esc` key.
 3. Now use my secret recipe before starting the Office 365 setup.
 4. Once Office 365 is installed. Export the path
 
