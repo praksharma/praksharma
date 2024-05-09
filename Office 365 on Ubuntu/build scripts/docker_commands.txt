@@ -1,0 +1,16 @@
+docker run -it \
+	--rm \
+	--env="DISPLAY" \
+	-v "${XAUTHORITY:-${HOME}/.Xauthority}:/root/.Xauthority:ro" \
+	-v "/tmp/.X11-unix:/tmp/.X11-unix:ro" \
+	--privileged \
+	office365 
+	
+	
+* Lot of bugs
+* Gecko issue
+* Docker container needs persistent storage.
+
+* build command
+docker build -t office365 .
+
