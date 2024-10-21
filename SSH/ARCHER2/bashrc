@@ -1,2 +1,7 @@
 alias work='cd /work/ta157/ta157/prakhars962'
 alias home='cd /home/ta157/ta157/prakhars962'
+bind "set completion-ignore-case on"
+if [ -f $HOME/mybash ]
+then
+    source $HOME/mybash
+fi
