@@ -1,0 +1,4 @@
+if [ -f $HOME/.myenv ]
+then
+    source $HOME/.myenv
+fi

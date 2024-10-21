@@ -1,0 +1,8 @@
+echo "MESSAGE : env variables loaded">&2
+bind "set completion-ignore-case on"
+export VL_DIR=/scratch/s.1915438/vltesting/VirtualLab
+export PATH=$PATH:/scratch/s.1915438/vltesting/VirtualLab/bin
+export PATH=$PATH:~/local/bin
+cd /scratch/s.1915438
+module load apptainer
+pwd>&2
