@@ -3,6 +3,16 @@ Remove all nvidia pytorch stuff.
 ```
 pip list | grep nvidia
 ```
+Upgrade setuptools.
+
+```
+pip install --upgrade pip setuptools
+```
+Upgrade pip to the latest version.
+
+```
+pip install --upgrade pip
+```
 
 Install Rocm Pytorch from [here](https://pytorch.org/get-started/previous-versions/).
 
@@ -12,7 +22,9 @@ pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https
 
 Allocate resources
 
-```salloc --partition=gpu --qos=gpu-shd --gres=gpu:1 --time=00:10:00 --account=ta157-prakhars```
+```
+salloc --partition=gpu --qos=gpu-shd --gres=gpu:1 --time=00:10:00 --account=ta157-prakhars
+```
 
 
 Jump into the node.
