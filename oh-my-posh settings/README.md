@@ -32,3 +32,6 @@ exec zsh
 # My custom theme
 So, I created a custom oh-my-posh theme. Here is how it looks like.
 ![Alt text](image-2.png)
+
+# Some modifications and bug fixes
+![alt text](image-3.png)

@@ -6,7 +6,7 @@
       "newline": true,
       "segments": [
         {
-          "background": "#FEF5ED",
+          "background": "#ed0909",
           "foreground": "#011627",
           "leading_diamond": "\ue0b2",
           "properties": {
@@ -16,7 +16,7 @@
           },
           "style": "diamond",
           "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}}",
-          "trailing_diamond": "<transparent,#FEF5ED>\ue0b2</>",
+          "trailing_diamond": "<transparent,#ED0909>\ue0b2</>",
           "type": "os"
         }, 
         {
@@ -74,7 +74,7 @@
         },
         {
           "style": "plain",
-          "template": "\u2500\u2511",
+          "template": "\u2500\u256e",
           "type": "text"
         }
       ],
@@ -120,7 +120,7 @@
         },
         {
           "style": "plain",
-          "template": "\u2500\u256f ",
+          "template": "\u2500\u256f",
           "type": "text"
         }
       ],
