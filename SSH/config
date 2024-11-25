@@ -1,14 +1,30 @@
 Host	sunbird
 	User	s.1915438
 	HostName	sunbird.swansea.ac.uk
+	IdentityFile	~/.ssh/id_rsa
+	IdentitiesOnly	yes
+	GSSAPIAuthentication no
 Host	cardiff
 	User	s.1915438
 	HostName	hawklogin.cf.ac.uk
 Host	sunbirdvnc
-    User	s.1915438
-    HostName	vnc.sunbird.swansea.ac.uk
-    LocalForward	5901 localhost:5905
-Host	proxy_pc
-    User	hell
-    Hostname	134.137.3.13
-    ProxyJump	sunbird
+  	User	s.1915438
+    	HostName	vnc.sunbird.swansea.ac.uk
+    	LocalForward	5901 localhost:5905
+Host	home
+	User	hell
+	HostName	10.44.82.227
+Host	proxy
+	HostName	windows.local
+	User	hell
+	ProxyJump	home
+Host    archer
+        User    prakhars962
+        HostName        login.archer2.ac.uk
+        IdentityFile    ~/.ssh/id_rsa
+        IdentitiesOnly  yes
+	GSSAPIAuthentication no
+Host	Freia
+	User	zw5893
+	HostName	freia013.hpc.l
+
