@@ -27,4 +27,16 @@ Host    archer
 Host	Freia
 	User	zw5893
 	HostName	freia013.hpc.l
+Host 	login*.hpc.cam.ac.uk
+    	ControlMaster auto
+    	ControlPath ~/.ssh/control-%C
+    	ControlPersist 900
+
+Host 	CSD3
+    	User	ir-shar8
+    	HostName	login.hpc.cam.ac.uk
+    	
+Host 	cumulus
+    	User	zw5893
+    	HostName	cumulus-login.hpc.l
 
