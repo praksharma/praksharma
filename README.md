@@ -1,8 +1,10 @@
 <blockquote cite="https://source.com">
-You could never convince a monkey to give you a banana by promising him limitless bananas in heaven. - Yuval Noah Harari.
+I don't try to imagine a personal God; it suffices to
+stand in awe at the structure of the world, insofar as it
+allows our inadequate senses to appreciate it.
+- Albert Einstein
 </blockquote>
 
-<center><h1>धर्म ही अधर्म है।</h1></center>
 
 Academic website: https://praksharma.github.io/
 
