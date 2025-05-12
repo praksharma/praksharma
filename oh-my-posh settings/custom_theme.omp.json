@@ -1,4 +1,4 @@
-{
+	{
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "console_title_template": "{{ .Folder }}",
   "blocks": [
@@ -39,7 +39,7 @@
           },
           "leading_diamond": "\ue0b2",
           "trailing_diamond": "</>",
-          "template": "\ue266 MEM: {{ round .PhysicalPercentUsed .Precision }}%|{{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB 🖥️",
+          "template": "\ue266 MEM: {{ round .PhysicalPercentUsed .Precision }}%|{{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB ",
           "foreground": "#ffffff",
           "background": "#516BEB",
           "type": "sysinfo",
