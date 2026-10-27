@@ -1,11 +1,3 @@
-<blockquote cite="https://source.com">
-I don't try to imagine a personal God; it suffices to
-stand in awe at the structure of the world, insofar as it
-allows our inadequate senses to appreciate it.
-- Albert Einstein
-</blockquote>
-
-
 Academic website: https://praksharma.github.io/
 
 If you see "something went wrong" here, then just ignore it. I am too lazy to deploy my own vercel instance. You can still click them to see the stats in a new tab.
